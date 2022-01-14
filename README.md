@@ -5,7 +5,7 @@ ML pipeline applied to Social messages during disaster time to distinguish messa
 1. [Installation](#installation)
 2. [Project Motivation](#project-motivation)
 3. [File Descriptions](#file-descriptions)
-4. [Results](#results)
+4. [Instructions](#Instructions)
 
 ## installation
 installation files needed numpy, pandas, sqlalchemy, re, NLTK, sqllite3, pickle, Sklearn, plotly and flask libraries.
@@ -20,7 +20,7 @@ code and comments are divided into 3 main python folder
 3. App folder has HTML templates and run.py file to apply Flask concepts between Webapp and backend of ML pipeline
 4. Readme.md file with instrutions to execute this project 
 
-### Instructions:
+### Instructions
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
